@@ -1,0 +1,25 @@
+[
+    {
+      "title": "BigInt (BIG INTEGERS) in C++",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a custom BigInt data type in C++ to handle large integers,surpassing the limitations of primitive types like long long int.",
+      "skills": ["C++", "DSA", "String"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/koligaurav/c---BigInt"
+    },
+    {
+      "title": "Portfolio website",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a responsive and interactive portfolio website using React.js, showcasing personal projects and professional skills with a focus on user experience, accessibility, and responsive design...",
+      "skills": ["React","HTML","CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/koligaurav/portfolio"
+    },
+    {
+      "title": "Mountain Cargo Line Follower Bot",
+      "imageSrc": "projects/project.png",
+      "description": " Developed an autonomous line-follower bot that could climb inclines upto 30 degrees with a payload of 300 grams.",
+      "skills": ["C++", "AutoCad", "Lesser"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }]
